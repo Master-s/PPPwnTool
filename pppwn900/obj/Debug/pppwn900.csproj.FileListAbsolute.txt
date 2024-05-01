@@ -1,0 +1,10 @@
+C:\Users\Master\source\repos\pppwn900\pppwn900\bin\Debug\pppwn900.exe.config
+C:\Users\Master\source\repos\pppwn900\pppwn900\bin\Debug\pppwn900.exe
+C:\Users\Master\source\repos\pppwn900\pppwn900\bin\Debug\pppwn900.pdb
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.Form1.resources
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.Properties.Resources.resources
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.exe
+C:\Users\Master\source\repos\pppwn900\pppwn900\obj\Debug\pppwn900.pdb
